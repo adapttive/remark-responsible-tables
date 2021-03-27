@@ -4,10 +4,13 @@
 
 ```js
 {
-  'classnames': {
-    'table': 'rwd-table',
-    'row': 'rwd-row'
-  }
+  classnames: {
+          table: "rwd-table",
+          row: "rwd-table-row",
+          column: "rwd-table-column",
+          wrapper: "rwd-table-wrapper"
+  },
+  addWrapper: true
 }
 ```
 
