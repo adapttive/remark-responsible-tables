@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "remark": "^13.0.0",
-    "remark-gfm": "^1.0.0",
+    "remark-gfm": "^3.0.0",
     "remark-html": "^13.0.1"
   }
 }
