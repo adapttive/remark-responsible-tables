@@ -9,7 +9,7 @@
     "unist-util-visit": "^2.0.3"
   },
   "devDependencies": {
-    "remark": "^13.0.0",
+    "remark": "^15.0.0",
     "remark-gfm": "^1.0.0",
     "remark-html": "^13.0.1"
   }
